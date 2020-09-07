@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { PostsActions } from './PostsActions';","map":{"version":3,"sources":["C:/Users/Admin/Desktop/Create-Project/src/Components/Features/Posts/Organisms/index.ts"],"names":["PostsActions"],"mappings":"AAAA,SAASA,YAAT,QAA6B,gBAA7B","sourcesContent":["export { PostsActions } from './PostsActions'\n"]},"metadata":{},"sourceType":"module"}

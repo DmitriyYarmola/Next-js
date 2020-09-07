@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { CreatePostForm } from './CreatePost';","map":{"version":3,"sources":["C:/Users/Admin/Desktop/Create-Project/src/Components/UI/Organisms/Forms/index.ts"],"names":["CreatePostForm"],"mappings":"AAAA,SAASA,cAAT,QAA+B,cAA/B","sourcesContent":["export { CreatePostForm } from './CreatePost'\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { createComments } from './createComments';","map":{"version":3,"sources":["C:/Users/Admin/Desktop/Create-Project/src/Components/API/REST/Comments/index.ts"],"names":["createComments"],"mappings":"AAAA,SAASA,cAAT,QAA+B,kBAA/B","sourcesContent":["export { createComments } from './createComments'\n"]},"metadata":{},"sourceType":"module"}

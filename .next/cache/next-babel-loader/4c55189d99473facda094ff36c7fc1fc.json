@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { PostContent } from './PostContent';","map":{"version":3,"sources":["C:/Users/Admin/Desktop/Create-Project/src/Components/UI/Molecules/index.ts"],"names":["PostContent"],"mappings":"AAAA,SAASA,WAAT,QAA4B,eAA5B","sourcesContent":["export { PostContent } from './PostContent'\n"]},"metadata":{},"sourceType":"module"}

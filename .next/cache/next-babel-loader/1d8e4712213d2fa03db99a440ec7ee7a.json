@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { PostItem } from './PostItem';","map":{"version":3,"sources":["C:/Users/Admin/Desktop/Create-Project/src/Components/UI/Organisms/index.ts"],"names":["PostItem"],"mappings":"AAAA,SAASA,QAAT,QAAyB,YAAzB","sourcesContent":["export { PostItem } from './PostItem'\n"]},"metadata":{},"sourceType":"module"}

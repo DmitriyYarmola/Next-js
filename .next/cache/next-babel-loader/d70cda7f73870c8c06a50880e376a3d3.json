@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { ListPosts } from './ListPosts';","map":{"version":3,"sources":["C:/Users/Admin/Desktop/Create-Project/src/Components/Features/Posts/index.ts"],"names":["ListPosts"],"mappings":"AAAA,SAAQA,SAAR,QAAwB,aAAxB","sourcesContent":["export {ListPosts} from './ListPosts'"]},"metadata":{},"sourceType":"module"}
